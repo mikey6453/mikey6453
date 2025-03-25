@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">An Undergraduate Student at The University of Virginia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikey6453" alt="mikey6453" /></a> </p>
-
 - 🌱 I’m currently learning **Golang, React.js, and Electron.js**
 
 - 📫 How to reach me **j.michael.park@gmail.com**
