@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, React.js, and Electron.js**
 
-- 📫 How to reach me **michael@spatiolabs.org**
+- 📫 How to reach me **j.michael.park@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
