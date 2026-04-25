@@ -8,16 +8,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%40+BreakPoint+Labs;Builder+of+LLM+Agent+Systems;UVA+CS+%E2%80%99+25;Always+shipping%2C+always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+%2B+Infra+%2B+Full-stack;UVA+CS+%E2%80%99+25;Always+shipping%2C+always+learning." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a software developer who's been deep in the **LLM agent systems** trenches — building AI-driven cybersecurity assistants, evaluation frameworks, and the infrastructure that keeps them honest. I graduated from **UVA** with a B.S. in Computer Science (May 2025) and currently build at **BreakPoint Labs**, where I get to ship real tools for DoD stakeholders.
+I'm a software developer who likes building things end-to-end — backends, infrastructure, evaluation tooling, and the occasional full-stack app. I graduated from **UVA** with a B.S. in Computer Science (May 2025), and I've worked across cybersecurity, DevOps, and research settings since.
 
-I love the moment when a system you designed actually *behaves* — when the eval harness catches a regression you couldn't see, when an agent picks the right tool, when the pipeline you wired up just hums along at 2 AM without you.
+I love the moment when a system you designed actually *behaves* — when a test catches a regression you couldn't see, when the abstraction holds under a weird edge case, when the pipeline you wired up just hums along at 2 AM without you.
 
 ---
 
@@ -30,12 +30,14 @@ I love the moment when a system you designed actually *behaves* — when the eva
 📚  UVA CS 1112                 Teaching Assistant            Aug 2023 — Dec 2023
 ```
 
-### 🤖 At BreakPoint Labs — building **C2AI**
-- 🧩 Orchestrating LLM agents over a dynamic toolset (RAG, incident response, account lookups)
-- 📊 Designed an LLM eval framework with tool-selection + end-to-end grading — Cartesian sweeps across **60+ test cases** drive provider selection
-- 📝 Built a **YAML filter-assertion DSL** + mock-execution mode for deterministic agent grading, catching argument-quality regressions invisible to binary tests (metrics → MLflow)
-- 🗄️ Decoupled LLM context size from query result size on large incident queries via DB-level aggregation
-- 💾 Automated daily SQLite chat-history backups with 30-day rolling retention (Ansible + Cron)
+### 🛠️ Recent Focus
+Most recently at **BreakPoint Labs**, I worked across the full stack of an AI-adjacent product — backend integrations, evaluation tooling, and operational infrastructure. Specifics are kept general here for confidentiality, but the themes:
+
+- 🧩 Backend services that wire together heterogeneous data sources and tools
+- 📊 Designing evaluation frameworks for systems that aren't strictly deterministic
+- 📝 Test/grading approaches that catch regressions binary pass/fail tests miss
+- 🗄️ Database-level work to keep query results lean and well-shaped
+- 💾 Operational tooling: backups, retention, recovery flows
 
 ---
 
@@ -147,21 +149,12 @@ When I'm not building, I'm usually moving:
 
 > *I build because systems are how ideas survive contact with reality.*
 
-I'm drawn to software engineering because it's the closest thing we have to building **machines that think with you**. A good system isn't just code that runs — it's a structure that holds up when the data is messy, when the user does something unexpected, when an LLM hallucinates a tool call. The craft is making something that **keeps working when you're not watching it**.
+I'm drawn to software engineering because of how much leverage a well-designed system has. A good system isn't just code that runs — it's a structure that holds up when the data is messy, when the user does something unexpected, when the requirements shift halfway through. The craft is making something that **keeps working when you're not watching it**.
 
-What pulls me toward LLM agents and AI infrastructure specifically: this is the first time in software where the components themselves are non-deterministic, and the only way through is rigorous evaluation, clean abstractions, and humility about what your system actually does. I want to be one of the people who builds the **scaffolding** — the eval frameworks, the agent orchestration, the boring-but-load-bearing infra — that lets AI products be trustworthy instead of just impressive.
+The work I find most satisfying lives a layer below the user-facing surface — the **scaffolding** that lets a product be reliable instead of just demoable. Evaluation, infra, integration glue, the boring-but-load-bearing pieces. That's where I want to keep getting better.
 
 Every project on this profile is me practicing the same thing: **take a fuzzy problem, give it edges, ship it.**
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikey6453&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikey6453&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikey6453&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center"><i>Thanks for stopping by — let's build something.</i> ✨</p>
+<p align="center"><i>Thanks for stopping by — let's build something.</i></p>
