@@ -24,7 +24,7 @@ I love the moment when a system you designed actually *behaves* — when a test 
 ## 💼 Where I've Built
 
 ```text
-🛡️  BreakPoint Labs            Software Developer            Sep 2025 — Apr 2026
+🛡️  BreakPoint Labs             Software Developer            Sep 2025 — Apr 2026
 🔧  Dataprise                   DevOps Engineer Intern        Jul 2024 — Sep 2024
 🔬  UVA Department of CS        Software Dev / Researcher     Jun 2024 — May 2025
 📚  UVA CS 1112                 Teaching Assistant            Aug 2023 — Dec 2023
